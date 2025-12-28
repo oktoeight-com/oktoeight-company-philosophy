@@ -5,7 +5,6 @@ We operate with a high signal-to-noise ratio. We value plain text, simplicity, a
 ## Principles
 
 ### Time
--   **8-8-8**: 8 hours work, 8 hours life, 8 hours sleep.
 -   **Boundaries**: Clear start and end times. Respect them.
 -   **Deep Work**: 60 continuous minutes beats four 15-minute fragments.
 -   **Rest**: Sleep on tough decisions. Morning brings clarity.
@@ -24,7 +23,6 @@ We operate with a high signal-to-noise ratio. We value plain text, simplicity, a
 -   **Async First**: Real-time is the exception. Reserve it for critical incidents.
 -   **Meetings**: Last resort. Write it up instead. Five people in a room for an hour isn’t a one hour meeting, it’s a five hour meeting.
 -   **Repetition**: Repeat core ideas until they are part of the culture.
--   **No "Hi"**: Don't ask to ask. State your business immediately.
 
 ### Teams
 -   **Small**: You can do big things with small teams, but it’s hard to do small things with big teams. 
