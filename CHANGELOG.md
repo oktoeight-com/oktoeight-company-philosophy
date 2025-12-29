@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Removed
 - Remove '8-8-8' and 'No "Hi"' principles from README.
+- Remove Methodologies section, Consistency principle, and Documentation workflow item.
 
 ## [0.1.0] - 2025-12-28
 
