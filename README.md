@@ -26,14 +26,11 @@ This is the company philosophy for Oktoeight. We operate with a high signal-to-n
 
 ### Teams
 -   **Small**: You can do big things with small teams, but it’s hard to do small things with big teams. 
--   **Respect**: Don't dismiss what you don't understand.
+-   **Respect**: Don't dismiss what you don't understand. If something seems easy, it most likely is not.
 
-## Tools
-
-Philosophy on software and hardware.
-
-### Philosophy
--   **Freedom**: Use the tools that make you most effective.
+### Tools
+-   **Freedom**: Use the tools that make you most effective. What works for others might not work for you.
+-   **Pragmatism**: Use the correct tool for the job, not the latest tool.
 -   **Simplicity**: Prefer tools that are local-first, plain-text, and modular.
 
 ## General Software Development Guidelines
