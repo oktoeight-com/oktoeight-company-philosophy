@@ -28,13 +28,6 @@ This is the company philosophy for Oktoeight. We operate with a high signal-to-n
 -   **Small**: You can do big things with small teams, but it’s hard to do small things with big teams. 
 -   **Respect**: Don't dismiss what you don't understand.
 
-## Methodologies
-
-We operationalize our philosophy through specific frameworks:
-
--   **[The CASE Method](https://github.com/oktoeight-com/oktoeight-case-method)**: Universal framework for help requests and debugging (Context, Action, Symptom, Evidence).
--   **[The CORE Method](https://github.com/oktoeight-com/oktoeight-core-method)**: Universal framework for prioritization and project management (Confidence, Outcome, Return, Effort).
-
 ## Tools
 
 Philosophy on software and hardware.
@@ -54,14 +47,12 @@ Core principles and workflows for software development at Oktoeight.
 -   **Clarity**: Prefer explicit code over "magic". Use meaningful names. Comment only non-obvious logic.
 -   **Modularity**: Design single-purpose components.
 -   **Efficiency**: Optimize only after identifying bottlenecks.
--   **Consistency**: Adhere strictly to existing patterns and styles within the project.
 
 ### Workflow
 
 -   **Plan First**: Outline steps before implementation.
 -   **Error Handling**: Handle errors explicitly. Never suppress them.
 -   **No Placeholders**: Do not commit temporary or developer-specific code.
--   **Documentation**: Use latest official references.
 
 ### Security
 
