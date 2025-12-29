@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Changed
+- Updated the company philosophy introduction in README.md.
+
 ### Removed
 - Remove '8-8-8' and 'No "Hi"' principles from README.
 
