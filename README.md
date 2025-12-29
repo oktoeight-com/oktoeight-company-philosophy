@@ -1,6 +1,6 @@
 # Company Philosophy
 
-We operate with a high signal-to-noise ratio. We value plain text, simplicity, and directness. Every word must earn its place.
+This is the company philosophy for Oktoeight. We operate with a high signal-to-noise ratio. We value plain text, simplicity, and directness. Every word must earn its place.
 
 ## Principles
 
