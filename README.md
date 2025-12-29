@@ -33,35 +33,6 @@ This is the company philosophy for Oktoeight. We operate with a high signal-to-n
 -   **Pragmatism**: Use the correct tool for the job, not the latest tool.
 -   **Simplicity**: Prefer tools that are local-first, plain-text, and modular.
 
-## General Software Development Guidelines
-
-Core principles and workflows for software development at Oktoeight.
-
-### Principles
-
--   **UNIX Philosophy**: Do one thing well. Build small, composable tools.
--   **Suckless Mindset**: Prioritize simplicity, clarity, and minimalism. Avoid bloat and unnecessary abstractions.
--   **Clarity**: Prefer explicit code over "magic". Use meaningful names. Comment only non-obvious logic.
--   **Modularity**: Design single-purpose components.
--   **Efficiency**: Optimize only after identifying bottlenecks.
-
-### Workflow
-
--   **Plan First**: Outline steps before implementation.
--   **Error Handling**: Handle errors explicitly. Never suppress them.
--   **No Placeholders**: Do not commit temporary or developer-specific code.
-
-### Security
-
--   **Secrets**: Never commit secrets. Use environment variables and `.gitignore`.
--   **Dependencies**: Use trusted, well-maintained libraries.
-
-### Version Control
-
--   **Commits**: Follow [Conventional Commits](https://www.conventionalcommits.org/).
--   **Changelog**: Follow [Keep a Changelog](https://keepachangelog.com/).
--   **Versioning**: Follow [Semantic Versioning](https://semver.org/).
-
 ## Contributing
 
 We welcome improvements that align with our minimalist philosophy. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to propose changes.
